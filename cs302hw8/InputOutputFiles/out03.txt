@@ -1,0 +1,521 @@
+
+Enter lander file: 
+Enter simulation file: 
+Rocket 3
+Fuel: 150
+Altitude: 22
+Velocity: 0
+
+Rocket 9
+Fuel: 120
+Altitude: 23
+Velocity: 0
+
+Rocket 5
+Fuel: 160
+Altitude: 23
+Velocity: 0
+
+Rocket 8
+Fuel: 175
+Altitude: 23
+Velocity: 0
+
+Rocket 7
+Fuel: 200
+Altitude: 24
+Velocity: 0
+
+Rocket 4
+Fuel: 100
+Altitude: 25
+Velocity: 0
+
+Rocket 2
+Fuel: 145
+Altitude: 25
+Velocity: 0
+
+Rocket 10
+Fuel: 158
+Altitude: 25
+Velocity: 0
+
+Rocket 6
+Fuel: 250
+Altitude: 25
+Velocity: 0
+
+Rocket 1
+Fuel: 170
+Altitude: 26
+Velocity: 0
+
+Rocket 8
+Fuel: 155.196
+Altitude: 21.6797
+Velocity: -1.32026
+
+Rocket 3
+Fuel: 142.082
+Altitude: 23.07
+Velocity: 1.07
+
+Rocket 7
+Fuel: 186.517
+Altitude: 23.2425
+Velocity: -0.7575
+
+Rocket 2
+Fuel: 136.955
+Altitude: 23.6592
+Velocity: -1.34081
+
+Rocket 9
+Fuel: 111.987
+Altitude: 24.6026
+Velocity: 1.60258
+
+Rocket 5
+Fuel: 142.734
+Altitude: 24.94
+Velocity: 1.94
+
+Rocket 4
+Fuel: 99.978
+Altitude: 24.9933
+Velocity: -0.00666667
+
+Rocket 6
+Fuel: 236.521
+Altitude: 25.5391
+Velocity: 0.539143
+
+Rocket 10
+Fuel: 141.17
+Altitude: 26.891
+Velocity: 1.89101
+
+Rocket 1
+Fuel: 155.966
+Altitude: 27.4034
+Velocity: 1.40336
+
+Rocket 8
+Fuel: 149.72
+Altitude: 19.9944
+Velocity: -1.68536
+
+Rocket 7
+Fuel: 168.969
+Altitude: 21.4992
+Velocity: -1.74329
+
+Rocket 2
+Fuel: 133.29
+Altitude: 22.9292
+Velocity: -0.730005
+
+Rocket 3
+Fuel: 134.051
+Altitude: 23.0547
+Velocity: -0.0152958
+
+Rocket 6
+Fuel: 204.177
+Altitude: 24.7845
+Velocity: -0.75463
+
+Rocket 4
+Fuel: 99.7914
+Altitude: 24.9301
+Velocity: -0.0632187
+
+Rocket 9
+Fuel: 100.454
+Altitude: 28.5117
+Velocity: 3.90913
+
+Rocket 10
+Fuel: 138.707
+Altitude: 29.0588
+Velocity: 2.16776
+
+Rocket 1
+Fuel: 150.243
+Altitude: 29.379
+Velocity: 1.97567
+
+Rocket 5
+Fuel: 114.239
+Altitude: 30.0817
+Velocity: 5.14172
+
+Rocket 8
+Fuel: 149.527
+Altitude: 18.2962
+Velocity: -1.69818
+
+Rocket 7
+Fuel: 150.907
+Altitude: 18.7412
+Velocity: -2.75806
+
+Rocket 2
+Fuel: 127.922
+Altitude: 23.0939
+Velocity: 0.164688
+
+Rocket 4
+Fuel: 94.7646
+Altitude: 23.3436
+Velocity: -1.58648
+
+Rocket 6
+Fuel: 196.186
+Altitude: 24.3495
+Velocity: -0.434984
+
+Rocket 3
+Fuel: 118.278
+Altitude: 25.1709
+Velocity: 2.11619
+
+Rocket 10
+Fuel: 134.763
+Altitude: 31.6696
+Velocity: 2.61086
+
+Rocket 1
+Fuel: 136.974
+Altitude: 32.6816
+Velocity: 3.30261
+
+Rocket 9
+Fuel: 98.1372
+Altitude: 32.8843
+Velocity: 4.37256
+
+Rocket 5
+Fuel: 95.7139
+Altitude: 37.3049
+Velocity: 7.22316
+
+Rocket 8
+Fuel: 132.621
+Altitude: 15.4709
+Velocity: -2.82528
+
+Rocket 7
+Fuel: 144.48
+Altitude: 16.3441
+Velocity: -2.39701
+
+Rocket 4
+Fuel: 92.6097
+Altitude: 22.4101
+Velocity: -0.933485
+
+Rocket 6
+Fuel: 165.349
+Altitude: 25.148
+Velocity: 0.798476
+
+Rocket 2
+Fuel: 108.694
+Altitude: 26.4633
+Velocity: 3.36938
+
+Rocket 3
+Fuel: 104.187
+Altitude: 29.1913
+Velocity: 4.0204
+
+Rocket 10
+Fuel: 128.962
+Altitude: 34.9323
+Velocity: 3.26267
+
+Rocket 1
+Fuel: 115.42
+Altitude: 38.1397
+Velocity: 5.45801
+
+Rocket 9
+Fuel: 81.7863
+Altitude: 40.527
+Velocity: 7.64274
+
+Rocket 5
+Fuel: 90.4054
+Altitude: 43.9316
+Velocity: 6.6267
+
+Rocket 7
+Fuel: 141.151
+Altitude: 13.7601
+Velocity: -2.58404
+
+Rocket 8
+Fuel: 113.858
+Altitude: 13.8965
+Velocity: -1.57445
+
+Rocket 4
+Fuel: 87.8508
+Altitude: 22.9188
+Velocity: 0.508615
+
+Rocket 6
+Fuel: 134.757
+Altitude: 24.7228
+Velocity: -0.42521
+
+Rocket 2
+Fuel: 99.6175
+Altitude: 28.3199
+Velocity: 1.85662
+
+Rocket 3
+Fuel: 96.8773
+Altitude: 34.1994
+Velocity: 5.00815
+
+Rocket 10
+Fuel: 108.257
+Altitude: 40.5214
+Velocity: 5.5891
+
+Rocket 1
+Fuel: 102.174
+Altitude: 44.9223
+Velocity: 6.78261
+
+Rocket 9
+Fuel: 78.4646
+Altitude: 48.8341
+Velocity: 8.30708
+
+Rocket 5
+Fuel: 89.1334
+Altitude: 50.4154
+Velocity: 6.48378
+
+Rocket 7
+Fuel: 137.035
+Altitude: 11.4073
+Velocity: -2.35284
+
+Rocket 8
+Fuel: 102.482
+Altitude: 11.5636
+Velocity: -2.33288
+
+Rocket 6
+Fuel: 127.229
+Altitude: 23.9964
+Velocity: -0.72636
+
+Rocket 4
+Fuel: 84.2202
+Altitude: 24.5275
+Velocity: 1.60877
+
+Rocket 2
+Fuel: 96.096
+Altitude: 30.7634
+Velocity: 2.44354
+
+Rocket 3
+Fuel: 90.1486
+Altitude: 40.1169
+Velocity: 5.91744
+
+Rocket 10
+Fuel: 94.974
+Altitude: 44.618
+Velocity: 4.09662
+
+Rocket 1
+Fuel: 89.3869
+Altitude: 52.9836
+Velocity: 8.06131
+
+Rocket 5
+Fuel: 80.4409
+Altitude: 57.8758
+Velocity: 7.46047
+
+Rocket 9
+Fuel: 69.5022
+Altitude: 58.9337
+Velocity: 10.0996
+
+Rocket 7
+Fuel: 127.259
+Altitude: 8.50518
+Velocity: -2.90208
+
+Rocket 8
+Fuel: 95.2668
+Altitude: 8.74973
+Velocity: -2.81387
+
+Rocket 6
+Fuel: 117.705
+Altitude: 23.651
+Velocity: -0.345412
+
+Rocket 4
+Fuel: 82.1354
+Altitude: 26.7681
+Velocity: 2.24055
+
+Rocket 2
+Fuel: 73.1998
+Altitude: 37.023
+Velocity: 6.25957
+
+Rocket 10
+Fuel: 93.8357
+Altitude: 48.5867
+Velocity: 3.96873
+
+Rocket 3
+Fuel: 67.8119
+Altitude: 49.0528
+Velocity: 8.9359
+
+Rocket 1
+Fuel: 87.5455
+Altitude: 61.229
+Velocity: 8.24545
+
+Rocket 5
+Fuel: 49.7342
+Altitude: 68.7865
+Velocity: 10.9107
+
+Rocket 9
+Fuel: 57.5584
+Altitude: 71.422
+Velocity: 12.4883
+
+Rocket 7
+Fuel: 102.686
+Altitude: 4.22262
+Velocity: -4.28256
+
+Rocket 8
+Fuel: 95.1556
+Altitude: 5.92845
+Velocity: -2.82128
+
+Rocket 6
+Fuel: 94.1192
+Altitude: 22.3622
+Velocity: -1.28884
+
+Rocket 4
+Fuel: 76.0539
+Altitude: 30.8515
+Velocity: 4.08343
+
+Rocket 2
+Fuel: 56.8235
+Altitude: 46.0119
+Velocity: 8.98895
+
+Rocket 10
+Fuel: 79.595
+Altitude: 50.9554
+Velocity: 2.36864
+
+Rocket 3
+Fuel: 62.1281
+Altitude: 58.7568
+Velocity: 9.70398
+
+Rocket 1
+Fuel: 62.6334
+Altitude: 71.9657
+Velocity: 10.7367
+
+Rocket 5
+Fuel: 36.6234
+Altitude: 78.224
+Velocity: 9.43752
+
+Rocket 9
+Fuel: 51.0187
+Altitude: 82.6024
+Velocity: 11.1804
+
+Rocket 7
+Fuel: 97.9059
+Altitude: 0.208636
+Velocity: -4.01399
+
+Rocket ID: 7 has crashed :( At least nobody was on board
+
+Rocket 8
+Fuel: 89.6011
+Altitude: 3.47747
+Velocity: -2.45098
+
+Rocket ID: 8 has crashed :( At least nobody was on board
+
+Rocket 6
+Fuel: 66.9887
+Altitude: 19.9881
+Velocity: -2.37406
+
+Rocket 4
+Fuel: 74.0551
+Altitude: 34.3292
+Velocity: 3.47772
+
+Rocket 10
+Fuel: 63.7293
+Altitude: 55.1067
+Velocity: 4.15131
+
+Rocket 2
+Fuel: 49.6257
+Altitude: 56.2005
+Velocity: 10.1886
+
+Rocket 3
+Fuel: 47.0129
+Altitude: 70.5033
+Velocity: 11.7466
+
+Rocket 1
+Fuel: 50.5776
+Altitude: 83.9079
+Velocity: 11.9422
+
+Rocket 5
+Fuel: 2.99164
+Altitude: 91.4404
+Velocity: 13.2164
+
+Rocket 9
+Fuel: 49.3976
+Altitude: 93.4586
+Velocity: 10.8562
+
+Rocket 6
+Fuel: 35.9741
+Altitude: 18.8547
+Velocity: -1.13348
+
+
+There are landers still trying to land...
+Lander ID: 4 Altitude: 37.818 mission aborted.
+Lander ID: 10 Altitude: 61.4444 mission aborted.
+Lander ID: 2 Altitude: 70.5201 mission aborted.
+Lander ID: 3 Altitude: 85.1073 mission aborted.
+Lander ID: 1 Altitude: 98.2382 mission aborted.
+Lander ID: 9 Altitude: 103.705 mission aborted.
+Lander ID: 5 Altitude: 104.956 mission aborted.
